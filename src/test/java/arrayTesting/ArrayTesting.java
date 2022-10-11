@@ -1,3 +1,5 @@
+package arrayTesting;
+
 import org.example.Arrays.ArrayMethods;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
